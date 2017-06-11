@@ -37,7 +37,7 @@ a:hover
    background: #824931; 
    border="0";
    right: 0px; 
-   bottom: -50px;
+   bottom: -80px;
    opacity: 0.4;
 }
 
@@ -48,7 +48,7 @@ a:hover
   font-family: "Lobster1.4";
   color: #855c43;
   font-weight: 800;
-bottom: -20px;
+bottom: -50px;
   text-align: center;
 }
 
@@ -94,7 +94,7 @@ z-index: -1;
 }
 .text2
 {
-position: absolute;
+position: relative;
 text-align: center;
 top: 500px;
 left: 100px;
@@ -110,7 +110,7 @@ background: #f7f1de;
 .forma
 {
   position: relative;
-  top: 20px;
+  top: 50px;
   font-size: 30px;
   text-align: center;
   color: #673a28;
